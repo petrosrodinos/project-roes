@@ -1,5 +1,4 @@
-this is the first change
+### Clone repository
 
-this is the second change
-
-we are in test branch
+- cd Desktop
+- git clone https://github.com/petrosrodinos/project-roes.git
