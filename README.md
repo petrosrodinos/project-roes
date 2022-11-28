@@ -9,7 +9,8 @@
 
 ### Sql setup
 - open browser tab: http://localhost/phpmyadmin/
-- create database
-## name:project-roes
+- create database with name:project-roes,password:root,username:root
 
+
+### Run project
 - open browser tab: localhost/wordpress/wordpress/wp-admin
