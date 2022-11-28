@@ -6,3 +6,10 @@
 - ~ cd wordpress
 - ~ git clone https://github.com/petrosrodinos/project-roes.git
 - start xampp Apache/MySql server
+
+### Sql setup
+- open browser tab: http://localhost/phpmyadmin/
+- create database
+## name:project-roes
+
+- open browser tab: localhost/wordpress/wordpress/wp-admin
